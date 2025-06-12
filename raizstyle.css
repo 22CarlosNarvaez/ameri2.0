@@ -1,0 +1,25 @@
+ /* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ .poema-caja {
+  max-width: 600px;
+  margin:9px auto;
+  padding: 20px;
+  background-color: #fff8f0;
+  border: 2px solid #e4b1ab;
+  border-radius: 10px;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
+  font-family: 'Georgia', serif;
+  font-size:0.90rem;
+  color: #333;
+  text-align: left;
+  }
+
+body{
+    overflow: hidden;
+    
+}
