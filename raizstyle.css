@@ -18,8 +18,20 @@
   color: #333;
   text-align: left;
   }
+  .poema-caja:hover {
+  transform:scale(1.02);
+}
+
+.poema-caja h4 {
+  color: #d6336c;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
 
 body{
+ 
+   font-family: 'Georgia', serif;
     overflow: hidden;
     
 }
