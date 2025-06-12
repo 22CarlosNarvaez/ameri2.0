@@ -48,3 +48,11 @@ background-repeat: repeat;
 
   overflow: hidden;
 }
+
+.imagen-derecha {
+  width: 300px;
+  float: right;
+  margin: -160px 10px 10px 10px;
+
+}
+
