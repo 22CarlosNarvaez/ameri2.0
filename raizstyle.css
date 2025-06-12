@@ -8,7 +8,7 @@
  .poema-caja {
   max-width: 600px;
   margin:9px auto;
-  padding: 20px;
+  padding: 15px;
   background-color: #fff8f0;
   border: 2px solid #e4b1ab;
   border-radius: 10px;
@@ -29,9 +29,22 @@
 }
 
 
-body{
+.detalle{
  
    font-family: 'Georgia', serif;
-    overflow: hidden;
     
+    
+}
+
+body{
+  background-color: #FFB6C1; 
+  background-image: url(/img/patobg.jpg);
+   background-size: 162px;
+background-repeat: repeat;
+  background-position: bottom;
+  
+   background-position: top left;
+
+
+  overflow: hidden;
 }
